@@ -569,3 +569,18 @@ margin: 20px;
   }
 
   /*NEWSLETTER AND MAPS NEWSLETTER AND MAPS NEWSLETTER AND MAPS NEWSLETTER AND MAPS NEWSLETTER AND MAPS NEWSLETTER AND MAPS*/
+
+
+  @media only screen and (max-width: 600px) {
+   .swiper{
+     height: 80vh;
+   }
+   .swiper-slide>img{
+     zoom: 0.5;
+   }
+   .maps{
+    width: 300px;
+    height: 350px;
+    border: 0ch;
+}
+  }
